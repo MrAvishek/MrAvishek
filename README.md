@@ -1,3 +1,6 @@
+![Profile Views](https://komarev.com/ghpvc/?username=MrAvishek&color=blue)
+![GitHub Followers](https://img.shields.io/github/followers/MrAvishek?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/MrAvishek?style=social)
 # 👋 Hi, I'm Avishek Mondal
 
 🚀 Embedded Systems | Robotics | AI Engineer  
@@ -9,9 +12,9 @@
 
 I build intelligent systems at the intersection of:
 
+- AI & Machine Learning
 - Embedded Systems
 - Microcontrollers (ESP32 / Arduino)
-- AI & Machine Learning
 - Robotics & IoT
 
 I enjoy designing systems from hardware to firmware to intelligent decision layers.
