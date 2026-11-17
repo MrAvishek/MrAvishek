@@ -1,78 +1,56 @@
-![Profile Views](https://komarev.com/ghpvc/?username=MrAvishek&color=blue)
-![GitHub Followers](https://img.shields.io/github/followers/MrAvishek?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/MrAvishek?style=social)
+<h1 align="center">Avishek Mondal</h1>
 
-# 👋 Hi, I'm Avishek Mondal
+<p align="center">
+  AI engineer working across agentic AI, computer vision and robotics<br>
+  B.Tech CSE, Indian Institute of Information Technology, Kalyani
+</p>
 
-🚀 Embedded AI & Robotics Engineer  
-🎓 B.Tech CSE | Indian Institute of Information Technology, Kalyani  
-
-I design and build intelligent systems — from hardware integration to AI-powered decision layers.
-
----
-
-## 📊 GitHub Analytics
-
-![Avishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrAvishek&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrAvishek&layout=compact&theme=tokyonight)
+<p align="center">
+  <a href="https://www.linkedin.com/in/avishek-mondal-ovi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:amondal.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=MrAvishek&style=for-the-badge&color=b6ff3c&label=VIEWS">
+</p>
 
 ---
 
-## 🧠 Core Focus Areas
+### About
 
-- Embedded Systems Architecture
-- Edge AI & Microcontroller Integration
-- Robotics & Autonomous Systems
-- Applied Machine Learning
-- Sensor Fusion & Real-Time Systems
+I build AI systems and connect them to the real world: retrieval pipelines and vision models on one side, cameras, motors and microcontrollers on the other.
 
----
+I'm also a Robotics and AI Team Lead at Reboot Robotics Academy, where I teach robotics, AI and embedded systems.
 
-## 🔧 Technical Stack
+### Featured projects
 
-### Embedded & Hardware
-- Arduino, ESP32
-- I2C / SPI / UART
-- Sensor Integration & Firmware Design
-- 3D Printed Prototyping
+| Project | What it does | Stack |
+|---|---|---|
+| [**HRNexus**](https://github.com/MrAvishek/HRNexus-Enterprise-HR-Knowledge-Agent) | Knowledge agent that retrieves and works with information from HR documents | Python, LangGraph, Qdrant, RAG |
+| [**IT Support Agentic RAG**](https://github.com/MrAvishek/Enterprise_IT_Support_Agentic_RAG) | Retrieves knowledge, evaluates the evidence and falls back to web search when needed | FastAPI, LangGraph, Pinecone, Groq, Tavily |
+| [**Landslide detection**](https://github.com/MrAvishek/Landslide-Detection-by-satellite-image-processing-with-Deep-learning-) | Pixel-level segmentation of satellite imagery (Landslide4Sense, 14-band patches) | TensorFlow/Keras, U-Net, FastAPI |
+| [**Solar panel classifier**](https://github.com/MrAvishek/Panel-Classifier) | Classifies six panel conditions; Streamlit app deployed on AWS EC2 | EfficientNetB0, Keras Tuner, Streamlit |
+| [**ESP32-CAM surveillance robot**](https://github.com/MrAvishek/ESP-32-cam-Based-Surveillance-Robot-) ([demo](https://drive.google.com/file/d/1EZhBB7vqIVUU9zlKo6yndRyvZQyGgQO8/view?usp=drive_link)) | Camera-enabled robot combining embedded systems and motor control | ESP32-CAM, embedded C/C++ |
+| **Agentic Interview Evaluation System** | Candidate analysis using LLM workflows | LLM workflows |
+| **DHT11 I2C weather station** | Function-based embedded firmware with a 3D-printed enclosure | Arduino, I2C |
 
-### AI / ML
-- Python
-- Deep Learning
-- Computer Vision
-- LLMs & RAG Systems
+More on [my GitHub profile](https://github.com/MrAvishek?tab=repositories): UGV, MiniGameServer, VirtualMouse, ChatApplication, WeatherApp.
 
-### Tools & Platforms
-- Git
-- VS Code
-- Linux
-- System Design & Architecture Thinking
+### Tech stack
 
----
+**AI and ML**<br>
+<img height="32" src="https://skillicons.dev/icons?i=python,tensorflow,fastapi"> &nbsp; LangGraph · RAG · Qdrant · Pinecone · Groq · Tavily · U-Net · EfficientNet
 
-## 🚀 Featured Projects
+**Robotics and embedded**<br>
+<img height="32" src="https://skillicons.dev/icons?i=arduino,raspberrypi"> &nbsp; ESP32 · ESP8266 · sensors · motor control · prototyping
 
-🔹 **ESP32 Surveillance Robot** – Vision-enabled microcontroller-based monitoring system  
-🔹 **Agentic Interview Evaluation System** – AI-powered candidate analysis using LLM workflows  
-🔹 **DHT11 I2C Weather Station** – Function-based embedded firmware with 3D enclosure  
-🔹 **Satellite Landslide Detection** – Deep learning applied to remote sensing imagery  
+**Tools and cloud**<br>
+<img height="32" src="https://skillicons.dev/icons?i=git,github,linux,docker,aws,vscode">
 
----
+### Currently exploring
 
-## 📈 Currently Working On
-
-- Edge AI on microcontrollers  
-- Advanced robotics system design  
-- Scalable firmware architectures  
-- Embedded ML deployment  
+- Edge AI on microcontrollers
+- Advanced robotics system design
+- Scalable firmware architectures
+- Embedded ML deployment
 
 ---
 
-## 📫 Connect
-
-- 🔗 LinkedIn: https://www.linkedin.com/in/avishek-mondal-ovi/
-- 📧 Email: mondalavishekspk@gmail.com
-
----
-
-> “I build systems — not just code.”
+<p align="center"><em>I build systems, not just code.</em></p>
